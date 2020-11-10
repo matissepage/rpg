@@ -1,0 +1,17 @@
+ID | LVL Min | XP Win | Objects Win | Dialog Give Quests | Dialog Rendre Quests | y | x | id_icon_pnj | NAME QUETS | MAP
+
+1:-1:100:NONE:"Ah ! Tu es enfin reveille&Je t'ai vu tomber du ciel... J'ai soigne tes blessures&Peux tu aller me chercher de l'eau ?":"Merci beaucoup":400:700:2:"Decouverte":1
+
+2:-1:100:NONE:"J'ai entendu des bruits venant de la foret&Peux-tu me debarrasser de ce monstre ?&Merci Beaucoup":"Grace à toi, je vais pouvoir aller couper du bois !":1034:684:3:"Foret...":1
+
+3:-1:100:NONE:"Que fais-tu chez moi !&Qui ta inviter !:"Tu va le regretter !":384:864:4:"Famine...":2
+
+4:-1:100:NONE:"Des monstres rodent par chez moi&Tue les je te recompenserais:"Merci Beaucoup aventurier !":960:1376:2:"Combat":2
+
+5:-1:100:NONE:"Ma canne a peche c'est casse&Peux-tu m'en apporter une autre ?:"Merci Beaucoup aventurier !":1408:352:1:"Chasse et Peche":2
+
+6:-1:100:NONE:"xxx&xxxx:"XXXX":1728:1824:1:"xxx":2
+
+7:-1:100:NONE:"Tu ne peux pas passser !&Quoi que.. Si tu arrive a ma rapporter 1 clef et 1 bougie je te laisse passer":"Je ferme les yeux, depeche toi de courir":704:4448:2:"PORTE":5
+
+8:-1:100:NONE:"Jamais tu ne retournera a la cite des Anges !&Jamais tu m'entend ! Il faudra me passer sur le corp":"J...J'ai vraiment perdu?":576:1312:3:"VICTOIRE":4
